@@ -67,7 +67,7 @@
     "geist": "^1.2.2",
     "input-otp": "^1.2.2",
     "jotai": "^2.1.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.18.1",
     "lucide-react": "0.359.0",
     "markdown-wasm": "^1.2.0",
     "next": "14.3.0-canary.43",
